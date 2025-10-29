@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
 
-<!--
-**DanielCardozoAndrade/DanielCardozoAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
+  🌱 Transformando curiosidade em código e erros em aprendizado <br>
+  🚀 Dando os primeiros passos no mundo da programação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Sobre mim
+Sou alguém que acredita que cada linha de código é uma forma de criar algo novo — uma mistura de lógica, criatividade e curiosidade.  
+A cada bug resolvido, aprendo mais sobre mim e sobre o universo da tecnologia.
+
+---
+
+### 🧩 Em constante evolução
+- 📚 Estudando fundamentos da programação e boas práticas  
+- 💡 Explorando novas ideias e experimentando projetos pessoais  
+- 🧠 Buscando aprender todos os dias
+
+---
+
+<p align="center">"Evoluir não é sobre ser perfeito, é sobre não parar de tentar." 🌟</p>
