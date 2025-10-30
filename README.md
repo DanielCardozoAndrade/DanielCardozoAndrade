@@ -56,7 +56,7 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
 ---
 
 ### 📘 **Acadêmico**
-- Formação: Análise e Desenvolvimento de sistemas
+- Formação: Análise e Desenvolvimento de sistemas<br>
   📝 *início: 28/10/2025.*<br>
   📝 *Período: 01/05*<br>
   📝 *Fim: ??/??/????*
