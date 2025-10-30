@@ -79,15 +79,15 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
 
 ### ⚙️ **Gestão e Administração**
 - [Gestão do Tempo para Alta Performance](https://drive.google.com/file/d/17OpXBG5l7exRjHilN8RbrWqY5P9MMiZQ/view?usp=sharing)  
-  ⏰ *Técnicas e metodologias para melhorar produtividade e foco.*<br>
+  ⏰ *Técnicas e metodologias para melhorar produtividade e foco.*<br><br>
 - [Equilíbrio Cultural e Inovação](https://drive.google.com/file/d/12xnTBcKpRAFM6I5lq63HwL-0OQgktm8V/view?usp=sharing)  
-  🌱 *A importância da diversidade e inovação nas organizações.*<br>
+  🌱 *A importância da diversidade e inovação nas organizações.*<br><br>
 - [Atração e Seleção de Talentos](https://drive.google.com/file/d/1i08aZEYvPB4tMpNDohJlhSOfCMCDO5eA/view?usp=sharing)  
-  🧩 *Processos de recrutamento e cultura organizacional.*<br>
+  🧩 *Processos de recrutamento e cultura organizacional.*<br><br>
 - [Gestão Estratégica de Gente](https://drive.google.com/file/d/1DT06Q3nJhkjgh-hAPFTDhsEKt97Lmyn6/view?usp=sharing)  
-  👥 *Como desenvolver e engajar equipes com propósito.*<br>
+  👥 *Como desenvolver e engajar equipes com propósito.*<br><br>
 - [Política de Compras - Requisitantes - Ativação Alloha Fibra](https://drive.google.com/file/d/11Q9Y1YpQC6PWL780ZtY1TEuLJDg97Z82/view?usp=sharing)  
-  🧾 *Diretrizes para o processo de compras — visão do requisitante.*<br>
+  🧾 *Diretrizes para o processo de compras — visão do requisitante.*<br><br>
 - [Política de Compras (Gestão) - Gestores - Ativação Alloha Fibra](https://drive.google.com/file/d/1w_pz_qApXiNVdIGty2aXC_8oAveJwPgP/view?usp=sharing)  
   📈 *Gestão e controle de políticas de compras corporativas.*
 
