@@ -56,8 +56,9 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
 ---
 
 ### 📘 **Acadêmico**
-- [Calendário Acadêmico 2025.4 EAD_V.02](https://drive.google.com/file/d/1IcboV2IwyUwq9QprYIYySWL_MBsbS8mi/view?usp=sharing)  
-  📝 *Calendário oficial do curso de ADS — acompanhamento de aulas e prazos acadêmicos.*
+- [Formação: Análise e Desenvolvimento de sistemas]
+  📝 *início: 28/10/2025.*<br>
+  📝 *Fim: ??/??/????*
 
 ---
 
