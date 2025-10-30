@@ -49,6 +49,9 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
 - [Inteligência Artificial para o Crescimento Profissional](https://drive.google.com/file/d/1wAaUw9gZw3H8vOMbkRDY_awPSbE51iP0/view?usp=sharing)  
   🤖 *Explorando como a IA está moldando o futuro da tecnologia.*
 
+  - [WORKSHOP SQL](https://drive.google.com/file/d/1fy54CujiAPYwVlk1x4LQCxoVRQtw3ie8/view?usp=sharing)
+    👨‍💻 *SQL para análise de dados*
+
 ---
 
 ### 📘 **Acadêmico**
