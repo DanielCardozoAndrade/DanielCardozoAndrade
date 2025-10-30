@@ -50,6 +50,8 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
   🤖 *Explorando como a IA está moldando o futuro da tecnologia.*<br>
 - [Workshop SQL](https://drive.google.com/file/d/1fy54CujiAPYwVlk1x4LQCxoVRQtw3ie8/view?usp=sharing)<br>
   👨‍💻 *SQL para análise de dados.*
+  - [Curso - Fundamentos de TI Hardware e Software](https://drive.google.com/file/d/1A_-LPC4ArJeEvxolL2KtIJbXf-3XDJFD/view?usp=sharing) 
+  🔋 *Fundamentos de hardware e software, explorando a estrutura dos computadores e como os programas interagem com o sistema.*<br>
 
 ---
 
