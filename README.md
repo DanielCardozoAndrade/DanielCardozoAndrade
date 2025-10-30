@@ -47,10 +47,9 @@ Cada link leva diretamente ao material ou certificado correspondente. 🚀
 - [HTML Básico](https://drive.google.com/file/d/1zv2qv5iQ6ZHGmy89zkx9ELlGox-vjc5F/view?usp=sharing)  
   🌐 *Curso introdutório aos fundamentos do HTML e estrutura de páginas web.*<br>
 - [Inteligência Artificial para o Crescimento Profissional](https://drive.google.com/file/d/1wAaUw9gZw3H8vOMbkRDY_awPSbE51iP0/view?usp=sharing)  
-  🤖 *Explorando como a IA está moldando o futuro da tecnologia.*
-
-  - [WORKSHOP SQL](https://drive.google.com/file/d/1fy54CujiAPYwVlk1x4LQCxoVRQtw3ie8/view?usp=sharing)
-    👨‍💻 *SQL para análise de dados*
+  🤖 *Explorando como a IA está moldando o futuro da tecnologia.*<br>
+- [Workshop SQL](https://drive.google.com/file/d/1fy54CujiAPYwVlk1x4LQCxoVRQtw3ie8/view?usp=sharing)
+  👨‍💻 *SQL para análise de dados*
 
 ---
 
